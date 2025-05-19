@@ -1,1 +1,1 @@
-https://github.com/kooorbon/cf-tunnel/blob/main/bestip.txt@198.41.212.15
+198.41.212.15#US
